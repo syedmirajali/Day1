@@ -1,0 +1,33 @@
+section{
+    display: flex;
+    text-align: left;
+    align-items: left;
+    justify-content: space-around;
+    
+    background-color:rgba(140, 188, 239, 0.58);
+}
+body{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+ul{
+    display: inline;
+    text-align: left;
+    align-items: left;
+    margin-right: 30px;
+    
+}
+
+ol{text-align: left
+}
+.facts{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+
+img{
+    max-height: 250px;
+    margin-top: 20px;
+}
